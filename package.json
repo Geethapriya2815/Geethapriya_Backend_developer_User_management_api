@@ -1,0 +1,13 @@
+{
+  "name": "user-management-api",
+  "version": "1.0.0",
+  "description": "REST API for managing user records",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7"
+  }
+}
